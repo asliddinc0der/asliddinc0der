@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddinc0der&label=Profile%20views&color=0e75b6&style=flat" alt="asliddinc0der" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asliddinc0der" alt="asliddinc0der" /></a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 - 🌱 I’m currently learning **Languages**
 
