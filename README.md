@@ -34,7 +34,7 @@
 ## 🏎️ Featured Project: Lamborghini Revuelto 3D
 
 <div align="center">
-  <a href="https://asliddinc0der.github.io/readme1/Lamborghini%20Revuelto%203D.html">
+  <a href="https://github.com/asliddinc0der/readme1/blob/root/Lamborghini%20Revuelto%203D.html">
     <img src="https://img.shields.io/badge/▶_PLAY_3D_DEMO-FFC400?style=for-the-badge&logo=three.js&logoColor=111111" alt="Play 3D Demo" />
   </a>
   <a href="https://github.com/asliddinc0der/readme1/blob/main/Lamborghini%20Revuelto%203D.html">
