@@ -29,9 +29,3 @@
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/asliddincoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/asliddincoder" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asliddinc0der&show_icons=true&locale=en&layout=compact" alt="asliddinc0der" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asliddinc0der&show_icons=true&locale=en" alt="asliddinc0der" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinc0der&" alt="asliddinc0der" /></p>
-
