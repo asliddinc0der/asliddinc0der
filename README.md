@@ -31,8 +31,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/asliddincoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/asliddincoder" /></a></p><br><br>
 
+## 🏎️ Featured Project: Lamborghini Revuelto 3D
 
-### 🏎️ Interactive 3D Lamborghini Revuelto
-[![Lamborghini Revuelto 3D](path/to/your-preview.gif)](https://<your-username>.github.io/lamborghini-revuelto-3d/)
+<div align="center">
+  <a href="https://asliddinc0der.github.io/readme1/Lamborghini%20Revuelto%203D.html">
+    <img src="https://img.shields.io/badge/▶_PLAY_3D_DEMO-FFC400?style=for-the-badge&logo=three.js&logoColor=111111" alt="Play 3D Demo" />
+  </a>
+  <a href="https://github.com/asliddinc0der/readme1/blob/main/Lamborghini%20Revuelto%203D.html">
+    <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code" />
+  </a>
+</div>
 
-👉 **[Click here to drive it in 3D](https://<your-username>.github.io/lamborghini-revuelto-3d/)**
+<br/>
+
